@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvTem.Ranges", "IvTem.Ranges\IvTem.Ranges.csproj", "{2F65E21A-9A83-4CF5-950D-F12F508E3244}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\tests\UnitTests.csproj", "{C0BC2BA5-D5B8-44EE-9EFF-1FC769A39544}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IvTem.Ranges.Tests", "..\tests\IvTem.Ranges.Tests.csproj", "{71E44B27-348D-453E-800F-899A311A90D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{2F65E21A-9A83-4CF5-950D-F12F508E3244}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F65E21A-9A83-4CF5-950D-F12F508E3244}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F65E21A-9A83-4CF5-950D-F12F508E3244}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C0BC2BA5-D5B8-44EE-9EFF-1FC769A39544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C0BC2BA5-D5B8-44EE-9EFF-1FC769A39544}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C0BC2BA5-D5B8-44EE-9EFF-1FC769A39544}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C0BC2BA5-D5B8-44EE-9EFF-1FC769A39544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71E44B27-348D-453E-800F-899A311A90D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71E44B27-348D-453E-800F-899A311A90D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71E44B27-348D-453E-800F-899A311A90D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71E44B27-348D-453E-800F-899A311A90D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
